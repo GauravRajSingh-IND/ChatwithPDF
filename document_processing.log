@@ -1,0 +1,52 @@
+2024-12-28 11:48:00,834 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:48:00,835 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:48:03,340 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:48:03,368 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:52:45,209 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:52:45,210 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:52:47,694 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:52:47,721 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:53:45,754 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:53:45,756 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:53:48,511 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:53:48,539 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:54:02,276 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:54:02,277 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:54:05,212 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:54:05,239 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:54:27,277 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:54:27,278 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:54:29,562 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:54:29,590 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:54:57,734 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:54:57,735 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:55:00,094 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:55:00,122 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:56:57,857 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:56:57,858 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:57:00,587 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:57:00,615 - document_processor - INFO - QA chain created successfully
+2024-12-28 11:58:56,014 - document_processor - INFO - Document loaded successfully
+2024-12-28 11:58:56,016 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 11:58:58,439 - document_processor - INFO - Vector database created successfully
+2024-12-28 11:58:58,470 - document_processor - INFO - QA chain created successfully
+2024-12-28 12:00:50,647 - document_processor - INFO - Document loaded successfully
+2024-12-28 12:00:50,648 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 12:00:53,460 - document_processor - INFO - Vector database created successfully
+2024-12-28 12:00:53,489 - document_processor - INFO - QA chain created successfully
+2024-12-28 12:05:20,947 - document_processor - INFO - Document loaded successfully
+2024-12-28 12:05:20,949 - document_processor - INFO - Document split into 108 chunks
+2024-12-28 12:05:23,996 - document_processor - INFO - Vector database created successfully
+2024-12-28 12:05:24,024 - document_processor - INFO - QA chain created successfully
+2024-12-28 12:27:52,115 - document_processor - INFO - Document loaded successfully
+2024-12-28 12:27:52,127 - document_processor - INFO - Document split into 1462 chunks
+2024-12-28 12:28:03,546 - document_processor - INFO - Vector database created successfully
+2024-12-28 12:28:03,575 - document_processor - INFO - QA chain created successfully
+2024-12-28 12:28:17,082 - document_processor - INFO - Document loaded successfully
+2024-12-28 12:28:17,082 - document_processor - INFO - Document loaded successfully
+2024-12-28 12:28:17,095 - document_processor - INFO - Document split into 1462 chunks
+2024-12-28 12:28:17,095 - document_processor - INFO - Document split into 1462 chunks
+2024-12-28 12:28:28,429 - document_processor - INFO - Vector database created successfully
+2024-12-28 12:28:28,429 - document_processor - INFO - Vector database created successfully
+2024-12-28 12:28:28,457 - document_processor - INFO - QA chain created successfully
+2024-12-28 12:28:28,457 - document_processor - INFO - QA chain created successfully
